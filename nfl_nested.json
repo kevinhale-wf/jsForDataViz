@@ -1,0 +1,138 @@
+[
+    {
+        "afc_conference": [
+            {
+                "North": [
+                    {
+                        "name": "Baltimore Ravens"
+                    },
+                    {
+                        "name": "Cinncinati Bengals"
+                    },
+                    {
+                        "name": "Cleveland Browns"
+                    },
+                    {
+                        "name": "Pittsburgh Steelers"
+                    }
+                ]
+            },
+            {
+                "South": [
+                    {
+                        "name": "Houston Texans"
+                    },
+                    {
+                        "name": "Indianapolis Colts"
+                    },
+                    {
+                        "name": "Jacksonville Jaguars"
+                    },
+                    {
+                        "name": "Tennesee Titans"
+                    }
+                ]
+            },
+            {
+                "East": [
+                    {
+                        "name": "Buffalo Bills"
+                    },
+                    {
+                        "name": "Miami Dolphins"
+                    },
+                    {
+                        "name": "New England Patriots"
+                    },
+                    {
+                        "name": "New York Jets"
+                    }
+                ]
+            },
+            {
+                "West": [
+                    {
+                        "name": "Denver Broncos"
+                    },
+                    {
+                        "name": "Kansas City Chiefs"
+                    },
+                    {
+                        "name": "Oakland Raiders"
+                    },
+                    {
+                        "name": "San Diego Chargers"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "nfc_conference": [
+            {
+                "North": [
+                    {
+                        "name": "Chicago Bears"
+                    },
+                    {
+                        "name": "Detroit Lions"
+                    },
+                    {
+                        "name": "Green Bay Packers"
+                    },
+                    {
+                        "name": "Minnesota Vikings"
+                    }
+                ]
+            },
+            {
+                "South": [
+                    {
+                        "name": "Atlanta Falcons"
+                    },
+                    {
+                        "name": "Carolina Panthers"
+                    },
+                    {
+                        "name": "New Orleans Saints"
+                    },
+                    {
+                        "name": "Tampa Bay Buccaneers"
+                    }
+                ]
+            },
+            {
+                "East": [
+                    {
+                        "name": "Dallas Cowboys"
+                    },
+                    {
+                        "name": "New York Giants"
+                    },
+                    {
+                        "name": "Philadelphia Eagles"
+                    },
+                    {
+                        "name": "Washington Redskins"
+                    }
+                ]
+            },
+            {
+                "West": [
+                    {
+                        "name": "Arizona Cardinals"
+                    },
+                    {
+                        "name": "St. Louis Rams"
+                    },
+                    {
+                        "name": "San Francisco 49ers"
+                    },
+                    {
+                        "name": "Seattle Seahawks"
+                    }
+                ]
+            }
+        ]
+    }
+]
